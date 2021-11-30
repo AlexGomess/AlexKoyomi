@@ -1,4 +1,4 @@
-- 🇵🇹 Portuguese;
+- Portuguese;
 - I’m interested in web development;
 - I’m currently learning <strong>HTML and CSS</strong>;
 
