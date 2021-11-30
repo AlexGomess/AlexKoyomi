@@ -1,6 +1,7 @@
 - Portuguese;
 - I’m interested in web development;
 - I’m currently learning <strong>HTML and CSS</strong>.
+
 [![AlexKoyomi GitHub stats](https://github-readme-stats.vercel.app/api?username=alexkoyomi)](https://github.com/alexkoyomi/github-readme-stats)
 
 <!---
