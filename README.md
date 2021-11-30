@@ -4,8 +4,8 @@
 
 <div align="left">
   <a href="https://github.com/alexkoyomi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alexkoyomi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkoyomi&layout=compact&langs_count=7&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexkoyomi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkoyomi&layout=compact&langs_count=7&theme=dark" />
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Alex-HTML" height="130" width="130" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
