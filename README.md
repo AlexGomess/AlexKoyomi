@@ -5,7 +5,8 @@
 [![AlexKoyomi GitHub stats](https://github-readme-stats.vercel.app/api?username=alexkoyomi)](https://github.com/alexkoyomi/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkoyomi)](https://github.com/alexkoyomi/github-readme-stats)
-<img src="https://www.vhv.rs/dpng/d/486-4866189_html-css-logo-png-transparent-png.png">
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">
 
 <!---
 AlexKoyomi/AlexKoyomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
